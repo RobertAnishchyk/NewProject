@@ -7,7 +7,7 @@ fun main(){
 
 }
 fun gats () {
-    print("Branch develop")
+    print("Hello world")
 
 }
 
