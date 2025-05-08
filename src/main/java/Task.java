@@ -12,4 +12,8 @@ public class Task {
         System.out.print("Площадь: " + (num1 * num2));
 
     }
+
+
+
+    }
 }
